@@ -7,3 +7,4 @@
 /WebRoot/Upload
 /.settings
 /.project
+/Application/Common/Conf/db.php
